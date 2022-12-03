@@ -1,3 +1,5 @@
 # Hello, world!
 
-Good evening!
+I study in Netology.
+
+3.12.2022
